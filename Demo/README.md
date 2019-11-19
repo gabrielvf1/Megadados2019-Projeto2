@@ -33,6 +33,7 @@ Basicamente ao rodar o código, ele irá pedir um input do usuário(sabor da piz
 Caso rode todos ao mesmo tempo será possivel visualizar o funcionamento por um todo da aplicação.
 
 ![](https://i.imgur.com/yU67Msf.gif)
+(clique para dar zoom)
 
 Este gif foi feito rodando os três arquivos e lendo os dois tópicos para visualizar as mensagens sendo publicadas.
 
