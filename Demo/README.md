@@ -32,7 +32,7 @@ Basicamente ao rodar o código, ele irá pedir um input do usuário(sabor da piz
 
 Caso rode todos ao mesmo tempo será possivel visualizar o funcionamento por um todo da aplicação.
 
-![gif](https://p70.f4.n0.cdn.getcloudapp.com/items/p9uzJ5DQ/gif.gif)
+![](https://i.imgur.com/yU67Msf.gif)
 
 Este gif foi feito rodando os três arquivos e lendo os dois tópicos para visualizar as mensagens sendo publicadas.
 
