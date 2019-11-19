@@ -31,7 +31,7 @@ O arquivo `consumer-notification.py` representa neste caso, a parte final da apl
 Basicamente ao rodar o código, ele irá pedir um input do usuário(sabor da pizza) e irá consumir os dados fornecidos pelo tópico `parsed_recipes` e dar uma resposta valida ao usuario conforme o seu input e os dados.
 
 Caso rode todos ao mesmo tempo será possivel visualizar o funcionamento por um todo da aplicação.
-![gif](https://p70.f4.n0.cdn.getcloudapp.com/items/p9uzJ5DQ/Screen+Recording+2019-11-18+at+09.48+PM.gif?v=ab0cb26e6f83e0535e0b3057b074670c)
+![gif](https://p70.f4.n0.cdn.getcloudapp.com/items/p9uzJ5DQ/Screen+Recording+2019-11-18+at+09.48+PM.gif)
 
 Este gif foi feito rodando os três arquivos e lendo os dois tópicos para visualizar as mensagens sendo publicadas.
 
